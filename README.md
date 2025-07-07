@@ -14,6 +14,7 @@ The Spotify Account Country Changer will log in to your account and change its c
 :white_check_mark:  Login Via Cookies (Only need SP_DC)  
 :white_check_mark:  Supports HTTP Proxies  
 
+**
 
 ![COUNTRY_CHANGE](https://github.com/user-attachments/assets/1eedf22b-bbe8-4c48-851a-389baa798628)
 
