@@ -1,4 +1,4 @@
-## Contact Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
@@ -19,7 +19,7 @@ The Spotify Account Country Changer will log in to your account and change its c
 ![COUNTRY_CHANGE](https://github.com/user-attachments/assets/1eedf22b-bbe8-4c48-851a-389baa798628)
 
 
-## Contact Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
