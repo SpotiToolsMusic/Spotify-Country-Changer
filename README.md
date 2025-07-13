@@ -1,6 +1,12 @@
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
+
+## Disclaimer
 
 ## Spotify Country Changer V 1.1.0
 The Spotify Account Country Changer will log in to your account and change its country setting to match the proxy. This helps your account remain active longer and prevents your streams from being removed.
@@ -19,9 +25,15 @@ The Spotify Account Country Changer will log in to your account and change its c
 ![COUNTRY_CHANGE](https://github.com/user-attachments/assets/1eedf22b-bbe8-4c48-851a-389baa798628)
 
 
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
+
+## Disclaimer
 
 ## Disclaimer
 
