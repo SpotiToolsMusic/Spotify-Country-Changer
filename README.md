@@ -1,3 +1,6 @@
+## LAST UPDATE
+27.10.2025
+
 ## DISCORD [SPTOI TOOLS API]
 
 https://discord.gg/hxShyEEqqK
